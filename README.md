@@ -1,6 +1,6 @@
 <a href="https://github.com/TennWilliams/Shopping-Cart"> Shopping Cart Exercise </a>
 # Shopping-Cart
-<img src="Screenshot.jpg" width="600" height="300">
+<img src="Screenshot.jpg" width="700" height="400">
 This is a grocery store cart where you added items to the cart and the instock number updates.  You can also delete items from the cart and instock number will update.  The count of items comes from the API database and it fecthed with an onclick button.
 
 ## Future improvments 
